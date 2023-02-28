@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Apple Watch</title>
+    <link rel="stylesheet" href="css/stylee.css">
+  </head>
+  <body>
+    <header>
+      <h1>Apple Watch</h1>
+    </header>
+    <main>
+      <section class="product-image">
+       <img src="images/W2.jpeg" class="card-img-top" alt="first card.">
+      </section>
+      <section class="product-details">
+        <h2>Product Details</h2>
+        <ul>
+          <li>Retina display with always-on feature</li>
+          <li>GPS and Cellular models available</li>
+          <li>Swimproof design</li>
+          <li>Electrical and optical heart sensors</li>
+          <li>Built-in compass</li>
+          <li>Elevation</li>
+          <li>Emergency SOS</li>
+          <li>International emergency calling</li>
+          <li>Apple Music and Apple Podcasts</li>
+          <li>watchOS 7 with sleep tracking, cycling directions, and new customizable watch faces</li>
+        </ul>
+        <a href="mamaa.html"><button class="buy-button">HOME</button></a>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Apple Inc.</p>
+    </footer>
+  </body>
+</html>

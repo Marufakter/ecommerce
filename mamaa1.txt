@@ -1,0 +1,47 @@
+<html>
+<body>
+<a href="mamaa.html"><h2>BACK</h2></a>
+<ol>
+  <li>
+    <h3>iPhone 13 Pro Max</h3>
+    <p>The latest and greatest from Apple, featuring a stunning 6.7-inch Super Retina XDR display, A15 Bionic chip, and advanced camera system.</p>
+  </li>
+  <li>
+    <h3>Samsung Galaxy S21 Ultra</h3>
+    <p>A powerhouse of a phone with a 6.8-inch Dynamic AMOLED display, 5G connectivity, and a 108-megapixel camera.</p>
+  </li>
+  <li>
+    <h3>Google Pixel 6 Pro</h3>
+    <p>Google's flagship phone for 2021, boasting a 6.7-inch OLED display, 5G support, and a powerful camera system with Google's industry-leading computational photography.</p>
+  </li>
+  <li>
+    <h3>OnePlus 9 Pro</h3>
+    <p>A premium Android phone with a 6.7-inch AMOLED display, 5G connectivity, and a Hasselblad-branded camera system.</p>
+  </li>
+  <li>
+    <h3>Xiaomi Mi 11 Ultra</h3>
+    <p>A high-end Android phone with a 6.81-inch AMOLED display, 5G support, and an impressive 50-megapixel camera.</p>
+  </li>
+  <li>
+    <h3>Apple iPhone 13</h3>
+    <p>A slightly more affordable option from Apple, featuring a 6.1-inch Super Retina XDR display, A15 Bionic chip, and a dual-camera system.</p>
+  </li>
+  <li>
+    <h3>Samsung Galaxy Z Fold 3</h3>
+    <p>A foldable phone with a 7.6-inch foldable Dynamic AMOLED display, 5G connectivity, and a triple-camera system.</p>
+  </li>
+  <li>
+    <h3>Asus ROG Phone 5</h3>
+    <p>A gaming-focused Android phone with a 6.78-inch AMOLED display, 5G support, and a powerful Snapdragon 888 processor.</p>
+  </li>
+  <li>
+    <h3>OnePlus Nord 2</h3>
+    <p>A mid-range Android phone with a 6.43-inch AMOLED display, 5G connectivity, and a capable camera system.</p>
+  </li>
+  <li>
+    <h3>Xiaomi Poco X3 Pro</h3>
+    <p>A budget-friendly Android phone with a 6.67-inch IPS LCD display, 4G support, and a powerful Snapdragon 860 processor.</p>
+  </li>
+</ol>
+</body>
+</html>

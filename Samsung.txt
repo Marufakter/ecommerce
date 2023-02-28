@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samsung Galaxy S23 Ultra Full Description</title>
+    <link rel="stylesheet" href="css/styleeee.css">
+</head>
+<body>
+    <header>
+<a href="mamaa.html"><h2>HOME</h2><a/>
+        <h1>Samsung Galaxy S23 Ultra</h1>
+    </header>
+    <main>
+        <img src="images/2nd.png" alt="Samsung Galaxy S23 Ultra" class="product-image">
+        <div class="product-description">
+            <h2>Overview</h2>
+            <p>The Samsung Galaxy S23 Ultra is the latest flagship smartphone from Samsung. It features a large 6.9-inch AMOLED display with a resolution of 1440 x 3200 pixels. It is powered by a Qualcomm Snapdragon 895 processor and comes with 16GB of RAM and 512GB of internal storage. The device runs on Android 13 and is powered by a 5000mAh battery.</p>
+            <h2>Camera</h2>
+            <p>The Samsung Galaxy S23 Ultra features a quad-camera setup on the back with a 108MP primary sensor, a 16MP ultra-wide sensor, a 12MP telephoto lens, and a 3D ToF sensor. The device also has a 40MP front-facing camera for selfies and video calls.</p>
+            <h2>Connectivity</h2>
+            <p>The Samsung Galaxy S23 Ultra supports 5G connectivity and also comes with Wi-Fi 6, Bluetooth 5.2, NFC, and GPS. It has a USB Type-C port for charging and data transfer and also comes with a 3.5mm headphone jack.</p>
+            <h2>Other Features</h2>
+            <ul>
+                <li>Fingerprint (under display, ultrasonic)</li>
+                <li>Samsung DeX</li>
+                <li>Bixby natural language commands and dictation</li>
+                <li>Fast charging 65W</li>
+                <li>Wireless charging 25W</li>
+                <li>Reverse wireless charging 15W</li>
+            </ul>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 Samsung Electronics Co., Ltd. All rights reserved.</p>
+    </footer>
+</body>
+</html>

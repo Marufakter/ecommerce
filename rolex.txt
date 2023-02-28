@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<a href="mamaa.html"><h2>home</h2></a>
+    <title>Rolex Watch Detail</title>
+    <link rel="stylesheet" href="css/ssstyle.css">
+  </head>
+  <body>
+    <header>
+      <h1>Rolex Watch Detail Page</h1>
+    </header>
+    <main>
+      <div class="watch-container">
+        <img src="images/rolex.png" alt="Rolex Watch">
+        <div class="watch-info">
+          <h2>Rolex Submariner</h2>
+          <p class="price">$8,000</p>
+          <p class="description">The Rolex Submariner is a classic diving watch that has been in production since 1953. It features a 40mm case, a black dial, and a unidirectional rotating bezel.</p>
+          <ul>
+            <li>Water-resistant up to 300 meters</li>
+            <li>Stainless steel bracelet</li>
+            <li>Date window at 3 o'clock position</li>
+          </ul>
+          <button>Add to Cart</button>
+        </div>
+      </div>
+    </main>
+    <footer>
+      <p>&copy; 2023 Rolex Watch Company</p>
+    </footer>
+  </body>
+</html>

@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>iPhone 14 Pro</title>
+    <link rel="stylesheet" href="css/styleee.css">
+  </head>
+  <body>
+    <header>
+       <a href="mamaa.html"><h2>BACK</h2></a>
+      <h1>iPhone 14 Pro</h1>
+    </header>
+
+    <main>
+<p><img src="images/1st.png" alt="Samsung Galaxy S23 Ultra" class="product-image"></p>
+      <section class="section1">
+        <h2>Overview</h2>
+        <p>The iPhone 14 Pro is the latest flagship smartphone from Apple. It comes with a 6.7-inch Super Retina XDR display, the A18 Bionic chip, and a triple-camera system.</p>
+      </section>
+      <section class="section2">
+        <h2>Design</h2>
+        <p>The iPhone 14 Pro features a sleek and stylish design with a ceramic shield front cover, stainless steel band, and a glass back. It is available in four colors: Silver, Graphite, Gold, and Sierra Blue.</p>
+      </section>
+      <section class="section3">
+        <h2>Camera</h2>
+        <p>The iPhone 14 Pro features a triple-camera system with 12MP Ultra Wide, Wide, and Telephoto lenses. It also has Night mode, Deep Fusion, and Smart HDR 4 for stunning photos and videos.</p>
+      </section>
+      <section class="section4">
+        <h2>Performance</h2>
+        <p>The iPhone 14 Pro is powered by the A18 Bionic chip, which is the fastest chip in a smartphone. It also has 5G connectivity for faster download and upload speeds.</p>
+      </section>
+      <section class="section5">
+        <h2>Price and Availability</h2>
+        <p>The iPhone 14 Pro is available for pre-order starting at $999 and will be released on September 23rd, 2023.</p>
+      </section>
+    </main>
+  </body>
+</html>

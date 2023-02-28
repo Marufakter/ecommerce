@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Top 10 Phones</title>
+ <link rel="stylesheet" href="css/stylle.css">
+</head>
+<body>
+ <header><a href="mamaa.html"><h2>home</h2></a>
+  <h1>Top 10 Phones</h1>
+ </header>
+ <main>
+  <section class="phone">
+   <img src="phone1.jpg">
+   <h2>iPhone 13 Pro Max</h2>
+   <p>The iPhone 13 Pro Max is Apple's latest and greatest smartphone. It boasts a stunning 6.7-inch OLED display, A15 Bionic chip, and a triple-camera system that takes incredible photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone2.jpg">
+   <h2>Samsung Galaxy S21 Ultra</h2>
+   <p>The Samsung Galaxy S21 Ultra is one of the best Android phones on the market. It has a 6.8-inch AMOLED display, Exynos 2100 chip, and a quad-camera system that produces stunning photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone3.jpg">
+   <h2>OnePlus 9 Pro</h2>
+   <p>The OnePlus 9 Pro is a powerful and sleek smartphone that delivers a top-notch experience. It features a 6.7-inch AMOLED display, Snapdragon 888 chip, and a quad-camera system that captures stunning photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone4.jpg">
+   <h2>Google Pixel 6 Pro</h2>
+   <p>The Google Pixel 6 Pro is an impressive smartphone that offers excellent performance and a great camera system. It has a 6.7-inch OLED display, Tensor chip, and a dual-camera system that captures stunning photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone5.jpg">
+   <h2>Xiaomi Mi 11 Ultra</h2>
+   <p>The Xiaomi Mi 11 Ultra is a high-end smartphone that offers top-notch specs and features. It has a 6.81-inch AMOLED display, Snapdragon 888 chip, and a triple-camera system that takes stunning photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone6.jpg">
+   <h2>OnePlus Nord 2 5G</h2>
+   <p>The OnePlus Nord 2 5G is a mid-range smartphone that delivers great performance and features. It has a 6.43-inch AMOLED display, MediaTek Dimensity 1200 chip, and a triple-camera system that captures great photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone7.jpg">
+   <h2>Apple iPhone 12 Pro</h2>
+   <p>The Apple iPhone 12 Pro is a powerful and stylish smartphone that offers great features and performance. It has a 6.1-inch OLED display, A14 Bionic chip, and a triple-camera system that captures stunning photos and videos.</p>
+  </section>
+  <section class="phone">
+   <img src="phone8.jpg">
+   <h2>Samsung Galaxy Note 20 Ultra</h2>
+   <p>The Samsung Galaxy Note 20 Ultra is a powerful and versatile smartphone that offers great features and performance. It has a 6.9-inch AMOLED display, Snapdragon 865+ chip, and a triple-camera system that captures great photos and videos.</p> </section> <section class="phone"> <img src="phone9.jpg"> <h2>Google Pixel 5a</h2> <p>The Google Pixel 5a is a mid-range smartphone that offers great value for its price. It has a 6.34-inch OLED display, Snapdragon 765G chip, and a dual-camera system that captures great photos and videos.</p> </section> <section class="phone"> <img src="phone10.jpg"> <h2>Xiaomi Poco F3 GT</h2> <p>The Xiaomi Poco F3 GT is a budget-friendly smartphone that delivers great performance and features. It has a 6.67-inch AMOLED display, MediaTek Dimensity 1200 chip, and a triple-camera system that captures great photos and videos.</p> </section> </main>
+</body> </html>

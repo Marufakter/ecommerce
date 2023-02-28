@@ -1,0 +1,56 @@
+/* Style the headings */
+h1, h2 {
+  text-align: center;
+  font-size: 36px;
+  color: #333;
+}
+
+/* Style the shoe images */
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
+
+/* Style the shoe descriptions */
+.shoe {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Style the shoe prices */
+.shoe p:last-child {
+  font-size: 24px;
+  font-weight: bold;
+  text-align: right;
+  margin: 0;
+}
+
+/* Style the table of contents */
+ol {
+  margin-top: 50px;
+  text-align: center;
+  list-style: none;
+}
+
+ol li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+ol li a {
+  color: #333;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+ol li a:hover {
+  color: #f5f5f5;
+  background-color: #333;
+  padding: 5px 10px;
+  border-radius: 5px;
+}

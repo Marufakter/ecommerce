@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+<a href="mamaa.html"><h1>home</h1></a>
+ <title>Top 10 Shoes</title>
+ <style>
+  body {
+   font-family: Arial, sans-serif;
+   background-color: #f1f1f1;
+  }
+
+  h1 {
+   text-align: center;
+   margin-top: 50px;
+   color: #333;
+  }
+
+  .container {
+   max-width: 1000px;
+   margin: auto;
+   display: grid;
+   grid-template-columns: repeat(5, 1fr);
+   grid-gap: 20px;
+   padding: 20px;
+  }
+
+  .shoe {
+   background-color: #fff;
+   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.3);
+   padding: 20px;
+   text-align: center;
+  }
+
+  .shoe img {
+   max-width: 100%;
+   margin-bottom: 20px;
+  }
+
+  .shoe h2 {
+   font-size: 20px;
+   margin-bottom: 10px;
+   color: #333;
+  }
+
+  .shoe p {
+   font-size: 14px;
+   color: #666;
+   margin-bottom: 10px;
+  }
+
+  .shoe span {
+   font-weight: bold;
+   color: #333;
+  }
+ </style>
+</head>
+<body>
+ <h1>Top 10 Shoes</h1>
+
+ <div class="container">
+  <div class="shoe">
+   <img src="images/shoes/shoe-2.png" alt="Shoe">
+   <h2>Nike Air Max</h2>
+   <p>The Nike Air Max is a classic sneaker that has been popular since its introduction in 1987. It features a visible air cushioning unit in the heel and is available in a variety of colorways. </p>
+   <span>$120</span>
+  </div>
+
+  <div class="shoe">
+   <img src="images/shoes/shoe-1.png" alt="Shoe">
+   <h2>Adidas Ultraboost</h2>
+   <p>The Adidas Ultraboost is a popular running shoe that features a responsive boost midsole and a stretchy knit upper. It is available in a variety of colorways and has become a favorite among runners and sneakerheads alike.</p>
+   <span>$180</span>
+  </div>
+
+  <div class="shoe">
+   <img src="images/shoes/shoe-3.png" alt="Shoe">
+   <h2>Vans Old Skool</h2>
+   <p>The Vans Old Skool is a classic skate shoe that has been around since the 1970s. It features a low profile silhouette and the iconic Vans side stripe. The Old Skool is available in a variety of colors and has become a staple in streetwear culture. </p>
+   <span>$60</span>
+  </div>
+
+  <div class="shoe">
+   <img src="images/shoes/shoe-1.png" alt="Shoe"> <h2>Converse Chuck Taylor All Star</h2> <p>The Converse Chuck Taylor All Star is a classic sneaker that has been around since the early 1900s. It features a canvas upper and the iconic Chuck Taylor patch on the side. The All Star is available in a variety of colors and has become a staple in both casual and athletic wear. </p> <span>$50</span> </div>
+<div class="shoe">
+  <img src="images/shoes/shoe-3.png" alt="Shoe">
+  <h2>New Balance 990</h2>
+  <p>The New Balance 990 is a popular running shoe that features a suede and mesh upper and a cushioned sole for comfort. It is available in a variety of colors and has become a favorite among runners and sneaker enthusiasts. </p>
+  <span>$175</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-2.png" alt="Shoe">
+  <h2>Reebok Classic Leather</h2>
+  <p>The Reebok Classic Leather is a retro sneaker that has been around since the 1980s. It features a leather upper and a low profile design. The Classic Leather is available in a variety of colorways and has become a staple in sneaker culture. </p>
+  <span>$75</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-1.png" alt="Shoe">
+  <h2>Puma Suede Classic</h2>
+  <p>The Puma Suede Classic is a retro sneaker that has been around since the 1960s. It features a suede upper and the iconic Puma formstripe on the side. The Suede Classic is available in a variety of colors and has become a favorite among sneaker enthusiasts. </p>
+  <span>$65</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-1.png" alt="Shoe">
+  <h2>Asics Gel-Kayano</h2>
+  <p>The Asics Gel-Kayano is a popular running shoe that features a gel cushioning system and a breathable mesh upper. It is available in a variety of colors and has become a favorite among runners and sneaker enthusiasts. </p>
+  <span>$160</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-2.png" alt="Shoe">
+  <h2>Adidas Superstar</h2>
+  <p>The Adidas Superstar is a classic sneaker that has been around since the 1960s. It features a leather upper and the iconic Adidas three stripes on the side. The Superstar is available in a variety of colors and has become a staple in streetwear culture. </p>
+  <span>$80</span>
+ </div>
+<div class="shoe">
+  <img src="images/shoes/shoe-3.png" alt="Shoe">
+  <h2>Nike Air Max 270</h2>
+  <p>The Nike Air Max 270 is a popular sneaker that features a large air cushioning unit in the heel for comfort. It is available in a variety of colors and has become a favorite among sneaker enthusiasts. </p>
+  <span>$150</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-1.png" alt="Shoe">
+  <h2>Vans Old Skool</h2>
+  <p>The Vans Old Skool is a classic skate shoe that has been around since the 1970s. It features a canvas and suede upper and the iconic Vans side stripe. The Old Skool is available in a variety of colors and has become a favorite among skaters and sneaker enthusiasts. </p>
+  <span>$60</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-2.png" alt="Shoe">
+  <h2>Jordan Retro 1</h2>
+  <p>The Jordan Retro 1 is a classic basketball shoe that has been around since the 1980s. It features a leather upper and the iconic Jordan logo on the side. The Retro 1 is available in a variety of colorways and has become a staple in sneaker culture. </p>
+  <span>$170</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-3.png" alt="Shoe">
+  <h2>Adidas Ultraboost</h2>
+  <p>The Adidas Ultraboost is a popular running shoe that features a comfortable and responsive Boost midsole and a breathable Primeknit upper. It is available in a variety of colors and has become a favorite among runners and sneaker enthusiasts. </p>
+  <span>$180</span>
+ </div>
+
+ <div class="shoe">
+  <img src="images/shoes/shoe-1.png" alt="Shoe">
+  <h2>Nike Roshe One</h2>
+  <p>The Nike Roshe One is a simple and comfortable sneaker that features a lightweight mesh upper and a Phylon foam sole. It is available in a variety of colors and has become a popular choice for everyday wear. </p>
+  <span>$75</span>
+ </div>
+
+</div>
+</body>
+</html>

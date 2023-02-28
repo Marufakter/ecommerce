@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<a href="mamaa.html"><h2>home</h2></a>
+ <title>Fossil Watch </title>
+ <link rel="stylesheet" href="css/fstyle.css">
+</head>
+<body>
+ <div class="container">
+  <div class="image">
+   <img src="images/fossil.jpeg" alt="Fossil Watch">
+  </div>
+  <div class="details">
+   <h1>Fossil Men's Watch FS5515</h1>
+   <p>Price: $99.99</p>
+   <p>Description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel placerat quam. Etiam interdum, sem a aliquet tempus, velit ipsum molestie nunc, at consequat odio est non sapien. Nam viverra laoreet bibendum. Sed porta, velit a suscipit ultricies, tortor metus vehicula massa, vel dictum orci nisi quis ante. Nullam volutpat ligula ipsum, in faucibus ex lacinia sit amet. Nulla facilisi. Nullam eget purus sapien. Fusce quis dolor velit. Vestibulum lacinia vel odio ut imperdiet. Mauris quis libero ut nibh sagittis interdum. </p>
+   <button>Add to Cart</button>
+  </div>
+ </div>
+</body>
+</html>
